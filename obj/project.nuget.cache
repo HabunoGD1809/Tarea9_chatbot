@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DP26GFcAheEP5Yedq4UhjTjcFtnDtjEgnOotaz5H4rcw6SKD+/KQYhUJ/oX4vtiJs2++jvNEyVfqolHN5Y1KZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HabonoXboX\\Desktop\\Csharp\\Tarea9_chatbot\\chatbot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HabonoXboX\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
